@@ -6,9 +6,9 @@ void main() {
   int multiplicationResult = a * b;
   double divisionResult = a / b;
   int modulusResult = a % b;
-  print("Addition of a and b: $additionResult");
-  print("Subtraction of b from a: $subtractionResult");
-  print("Multiplication of a and b: $multiplicationResult");
-  print("Division of a by b: $divisionResult");
-  print("Modulus of a by b: $modulusResult");
+  print("Addition : $additionResult");
+  print("Subtraction: $subtractionResult");
+  print("Multiplication: $multiplicationResult");
+  print("Division: $divisionResult");
+  print("Modulus: $modulusResult");
 }
